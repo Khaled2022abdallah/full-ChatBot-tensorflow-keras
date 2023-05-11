@@ -1,10 +1,10 @@
 # full-ChatBot-tensorflow-keras
 Here are the 5 steps to create a chatbot in Python from scratch:
-Import and load the data file
-Preprocess data
-Create training and testing data
-Build the model
-Predict the response
+1. Import and load the data file
+2. Preprocess data
+3. Create training and testing data
+4. Build the model
+5. Predict the response
 
 To run the chatbot,you need install tensorflow, keras, nltk :
 python chatgui.py
